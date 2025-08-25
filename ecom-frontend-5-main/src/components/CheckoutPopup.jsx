@@ -1,4 +1,4 @@
-import React from 'react';
+import 'react';
 import { Modal, Button } from 'react-bootstrap';
 
 const CheckoutPopup = ({ show, handleClose, cartItems, totalPrice, handleCheckout }) => {
